@@ -1,3 +1,4 @@
+package modelo;
 import java.util.Locale;
 
 public class DetallePedido {
